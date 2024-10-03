@@ -1,2 +1,2 @@
-# Lab2Weeb
+# Lab2Web
 # Latihan2
