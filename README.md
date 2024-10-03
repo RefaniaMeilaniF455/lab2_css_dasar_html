@@ -1,2 +1,2 @@
-# lab2_css_dasar_html
+# Lab2Weeb
 # Latihan2
